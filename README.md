@@ -3,7 +3,7 @@
 <h2>CyberSecurity Projects:👨‍💻</h2>
 
 - <b>Built an (SIEM) </b>
-  - [(SIEM) project](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Jaygreat007/Built-an-SIEM-))
+  - [(SIEM) project](https://github.com/Jaygreat007/Built-an-SIEM-))
 - <b>Virtual Network</b>
   - [Virtual Network project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>VPN Implementation Project</b>
