@@ -9,5 +9,5 @@
 - <b>VPN Implementation Project</b>
   - [VPN project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Malware Analysis</b>
-  - [Malware Analysis project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Malware Analysis project](https://github.com/Jaygreat007/Malware-Analysis-lab/blob/main/README.md) <b><i></b></i>
 
