@@ -5,7 +5,7 @@
 - <b>Built an (SIEM) </b>
   - [(SIEM) project](https://github.com/Jaygreat007/Built-an-SIEM-))
 - <b>Virtual Network</b>
-  - [Virtual Network project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Virtual Network project](https://github.com/Jaygreat007/Virtual-Network-project/blob/main/README.md) <b><i></b></i>
 - <b>VPN Implementation Project</b>
   - [VPN project](https://github.com/Jaygreat007/VPN-project/blob/main/README.md) <b><i></b></i>
 - <b>Malware Analysis</b>
