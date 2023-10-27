@@ -10,4 +10,6 @@
   - [VPN project](https://github.com/Jaygreat007/VPN-project/blob/main/README.md) <b><i></b></i>
 - <b>Malware Analysis</b>
   - [Malware Analysis project](https://github.com/Jaygreat007/Malware-Analysis-lab/blob/main/README.md) <b><i></b></i>
-
+<h1>Artificial Intelligence/Machine Learning </h1>
+<h2>Virtual Assistant</h2>
+-[Virtual Assistant project](https://github.com/Jaygreat007/Virtual-Assistant-Project/blob/main/README.md) <b><i></b></i>
