@@ -21,5 +21,4 @@
   - [Virtual Assistant](https://github.com/Jaygreat007/Virtual-Assistant-Project/blob/main/README.md)
   - [Code for Virtual Assistant](https://github.com/Jaygreat007/Main.Py/blob/main/main3.py)
 
-  #- [Virtual Network project](https://github.com/Jaygreat007/Virtual-Network-project/blob/main/README.md) <b><i></b></i>
-
+ 
