@@ -10,7 +10,7 @@
 - <b>Malware Analysis Project</b>
   - [Malware Analysis](https://github.com/Jaygreat007/Malware-Analysis-lab/blob/main/README.md)
 
-<h2>Artificial Intelligence/Machine Learning Projects</h2>
+<h2>Artificial Intelligence and Machine Learning Projects</h2>
 
 
 
