@@ -18,7 +18,7 @@
 
 
 - <b>Virtual Assistant Project </b>
-  - [Virtual Assistant](https://github.com/Jaygreat007/Virtual-Assistant-Project/blob/main/READ.md)
+  - [Virtual Assistant](https://github.com/Jaygreat007/Virtual-Assistant-Project)
   - [Code for Virtual Assistant](https://github.com/Jaygreat007/Main.Py/blob/main/main3.py)
 - <b>FingerPrint Matching Scanner </b>
   - [FingerPrint Matcher](https://github.com/Jaygreat007/FIngerprint-Matching)
